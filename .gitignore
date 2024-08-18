@@ -1,0 +1,36 @@
+*.db
+ipk_output
+*.bak
+_old
+rice-box.go
+.idea/
+/file_server
+/file_server.exe
+logs/
+build/.database
+.DS_Store
+
+# local env fileinfo
+.env.local
+.env.*.local
+
+# Log fileinfo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and fileinfo
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+bin/
+conf/*.toml
+file_cache/
+temp_tus/
+preview_cache/
+output
+.nas_id_rsa
